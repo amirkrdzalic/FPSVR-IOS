@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRfps-iOS.CSharp.Plugins", "VRfps-iOS.CSharp.Plugins.csproj", "{058ED787-1F52-1725-DDEC-218E315B4E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRfps-iOS.CSharp", "VRfps-iOS.CSharp.csproj", "{F9B5C4F2-A15F-C967-6903-42B2218794A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRfps-iOS.CSharp.Editor", "VRfps-iOS.CSharp.Editor.csproj", "{61E73015-AD46-AB8D-3189-A4CBECD8C6CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058ED787-1F52-1725-DDEC-218E315B4E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058ED787-1F52-1725-DDEC-218E315B4E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058ED787-1F52-1725-DDEC-218E315B4E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058ED787-1F52-1725-DDEC-218E315B4E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B5C4F2-A15F-C967-6903-42B2218794A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B5C4F2-A15F-C967-6903-42B2218794A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B5C4F2-A15F-C967-6903-42B2218794A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B5C4F2-A15F-C967-6903-42B2218794A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E73015-AD46-AB8D-3189-A4CBECD8C6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E73015-AD46-AB8D-3189-A4CBECD8C6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E73015-AD46-AB8D-3189-A4CBECD8C6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E73015-AD46-AB8D-3189-A4CBECD8C6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
